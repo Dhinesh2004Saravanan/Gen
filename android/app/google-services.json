@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "320530894083",
+    "project_id": "lawbot-fbfee",
+    "storage_bucket": "lawbot-fbfee.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:320530894083:android:ea7b3b9b094d65a4776d36",
+        "android_client_info": {
+          "package_name": "com.example.http_package_flutter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCleeHgRRL9vMxLgwjWBgMYVCzT8KsP1HM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
